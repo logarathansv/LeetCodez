@@ -12,8 +12,8 @@ public:
             int temp = pq.top();
             pq.pop();
             score += temp;
-            cout<<score<<" "<<temp<<"\n";
-            pq.push(ceil((double)temp/3));
+            
+            pq.push((temp+2)/3);
         }
 
         return score;
