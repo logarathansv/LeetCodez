@@ -1,18 +1,12 @@
 class Solution {
 public:
-    void findSubset(int ind, vector<int>& temp, vector<int>& nums, int mxor, int &ans){
+    void findSubset(int ind, int check, vector<int>& nums, int mxor, int &ans){
         if(ind == nums.size()){
-            int check = 0;
-            for(auto num:temp){
-                check = check | num;
-            }
             if(check == mxor) ans++;
             return;
         }
-        temp.push_back(nums[ind]);
-        findSubset(ind+1, temp, nums, mxor, ans);
-        temp.pop_back();
-        findSubset(ind+1, temp, nums, mxor, ans);
+        findSubset(ind+1, check | nums[ind], nums, mxor, ans);
+        findSubset(ind+1, check, nums, mxor, ans);
     }
     int countMaxOrSubsets(vector<int>& nums) {
         int mxor = 0;
@@ -21,7 +15,7 @@ public:
         }
         vector<int> temp;
         int res = 0;
-        findSubset(0, temp, nums, mxor, res);
+        findSubset(0, 0, nums, mxor, res);
         return res;
     }
 };
