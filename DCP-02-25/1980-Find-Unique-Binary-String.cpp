@@ -17,10 +17,18 @@ public:
         }
     }
     string findDifferentBinaryString(vector<string>& nums) {
-        string res = "";
-        unordered_set<string> st; 
-        for(auto num:nums) st.insert(num);
-        finddifferent("", nums, res, st);
-        return res;
+        // string res = "";
+        // unordered_set<string> st; 
+        // for(auto num:nums) st.insert(num);
+        // finddifferent("", nums, res, st);
+        // return res;
+
+        //Diagonal Flipping
+        string ans = "";
+        for(int i=0;i<nums.size();i++){
+            if(nums[i][i] == '0') ans += '1';
+            else ans += '0';
+        }    
+        return ans;
     }
 };
