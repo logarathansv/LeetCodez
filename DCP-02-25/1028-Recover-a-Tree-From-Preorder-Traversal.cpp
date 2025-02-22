@@ -36,6 +36,43 @@ public:
         return node;
     }
     TreeNode* recoverFromPreorder(string traversal) {
-        return recoverTree(traversal, 0);
+        stack<TreeNode*> st;
+        int i = 0;
+        while(i < traversal.size()){
+            int currdep = 0;
+            while(i < traversal.size() && traversal[i] == '-'){
+                currdep++;
+                i++;
+            }
+            
+            int val = 0;
+            while(isdigit(traversal[i])){
+                val = val*10 + traversal[i] - '0';
+                i++;
+            }
+
+            TreeNode* node = new TreeNode(val);
+
+            while(currdep < st.size()){
+                st.pop();
+            }
+            if(!st.empty()){
+                if(!st.top()->left){
+                    st.top()->left = node;
+                }
+                else{
+                    st.top()->right = node;
+                }
+            }
+            st.push(node);
+        }
+
+        while(st.size() > 1){
+            st.pop();
+        }
+
+        return st.top();
+        // return recoverTree(traversal, 0);
     }
+
 };
