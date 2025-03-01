@@ -17,4 +17,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
+## String
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
