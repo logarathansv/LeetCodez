@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -31,4 +32,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
