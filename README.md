@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/logarathansv/LeetCodez/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
@@ -44,12 +45,14 @@ This repository contains my solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/logarathansv/LeetCodez/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/logarathansv/LeetCodez/tree/master/2227-sum-of-subarray-ranges) |
@@ -72,4 +75,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/logarathansv/LeetCodez/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
