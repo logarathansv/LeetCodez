@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/logarathansv/LeetCodez/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/logarathansv/LeetCodez/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/logarathansv/LeetCodez/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/logarathansv/LeetCodez/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/logarathansv/LeetCodez/tree/master/3483-alternating-groups-ii) |
 ## Greedy
