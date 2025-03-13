@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems.
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/logarathansv/LeetCodez/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/logarathansv/LeetCodez/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/logarathansv/LeetCodez/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
@@ -97,4 +99,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/logarathansv/LeetCodez/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
