@@ -10,12 +10,13 @@ public:
     }
     int maximumCandies(vector<int>& candies, long long k) {
         long long sum = 0;
+        int maxi = INT_MIN;
         for(auto candy : candies){
             sum += candy;
+            maxi = max(maxi, candy);
         }
         if(sum < k) return 0;
-        int maxi = *max_element(candies.begin(), candies.end());
-        int l = 1, r = maxi;
+        int l = 1, r = sum/k;
         while(l<=r){
             int mid = (l + r)/2;
             if(isPossible(candies, k, mid)) l = mid + 1;
