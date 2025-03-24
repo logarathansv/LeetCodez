@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [2690-house-robber-iv](https://github.com/logarathansv/LeetCodez/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/logarathansv/LeetCodez/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/logarathansv/LeetCodez/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/logarathansv/LeetCodez/tree/master/3639-zero-array-transformation-i) |
@@ -137,4 +138,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/logarathansv/LeetCodez/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
