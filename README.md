@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -48,6 +49,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
+| [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/logarathansv/LeetCodez/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -61,6 +63,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -109,6 +112,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
+| [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
