@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems.
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/logarathansv/LeetCodez/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/logarathansv/LeetCodez/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Stack
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode problems.
 | [2649-count-total-number-of-colored-cells](https://github.com/logarathansv/LeetCodez/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/logarathansv/LeetCodez/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -199,9 +201,11 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/logarathansv/LeetCodez/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
