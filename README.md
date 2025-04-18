@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
