@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/logarathansv/LeetCodez/tree/master/2227-sum-of-subarray-ranges) |
+| [2249-count-the-hidden-sequences](https://github.com/logarathansv/LeetCodez/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/logarathansv/LeetCodez/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [2249-count-the-hidden-sequences](https://github.com/logarathansv/LeetCodez/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/logarathansv/LeetCodez/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
