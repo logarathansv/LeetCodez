@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems.
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
@@ -82,6 +83,7 @@ This repository contains my solutions to LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/logarathansv/LeetCodez/tree/master/2262-solving-questions-with-brainpower) |
@@ -136,6 +138,7 @@ This repository contains my solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -217,6 +220,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
