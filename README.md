@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
@@ -230,6 +232,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
@@ -238,6 +241,7 @@ This repository contains my solutions to LeetCode problems.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
@@ -269,6 +273,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 ## Monotonic Queue
