@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -80,6 +81,7 @@ This repository contains my solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/logarathansv/LeetCodez/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -91,6 +93,7 @@ This repository contains my solutions to LeetCode problems.
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
+| [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/logarathansv/LeetCodez/tree/master/2262-solving-questions-with-brainpower) |
