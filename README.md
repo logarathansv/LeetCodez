@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1656-count-good-triplets](https://github.com/logarathansv/LeetCodez/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/logarathansv/LeetCodez/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/logarathansv/LeetCodez/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -74,6 +75,7 @@ This repository contains my solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/logarathansv/LeetCodez/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 ## String
