@@ -1,6 +1,5 @@
 class Solution {
 public:
-    // Helper to check if two words differ by exactly one character
     bool differByOne(const string& a, const string& b) {
         int diff = 0;
         for (int i = 0; i < a.size(); ++i) {
