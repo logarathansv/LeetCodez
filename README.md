@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode problems.
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/logarathansv/LeetCodez/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/logarathansv/LeetCodez/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/logarathansv/LeetCodez/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/logarathansv/LeetCodez/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
