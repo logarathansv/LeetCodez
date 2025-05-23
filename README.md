@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/logarathansv/LeetCodez/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/logarathansv/LeetCodez/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/logarathansv/LeetCodez/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems.
 | [2415-count-the-number-of-ideal-arrays](https://github.com/logarathansv/LeetCodez/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/logarathansv/LeetCodez/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/logarathansv/LeetCodez/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/logarathansv/LeetCodez/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/logarathansv/LeetCodez/tree/master/3637-count-number-of-balanced-permutations) |
@@ -224,6 +226,7 @@ This repository contains my solutions to LeetCode problems.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/logarathansv/LeetCodez/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/logarathansv/LeetCodez/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/logarathansv/LeetCodez/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
@@ -261,6 +264,7 @@ This repository contains my solutions to LeetCode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/logarathansv/LeetCodez/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -288,6 +292,7 @@ This repository contains my solutions to LeetCode problems.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/logarathansv/LeetCodez/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/logarathansv/LeetCodez/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/logarathansv/LeetCodez/tree/master/3647-zero-array-transformation-iii) |
@@ -358,4 +363,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/logarathansv/LeetCodez/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/logarathansv/LeetCodez/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
