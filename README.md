@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/logarathansv/LeetCodez/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/logarathansv/LeetCodez/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/logarathansv/LeetCodez/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/logarathansv/LeetCodez/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/logarathansv/LeetCodez/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/logarathansv/LeetCodez/tree/master/3637-count-number-of-balanced-permutations) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ This repository contains my solutions to LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/logarathansv/LeetCodez/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/logarathansv/LeetCodez/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/logarathansv/LeetCodez/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +240,7 @@ This repository contains my solutions to LeetCode problems.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/logarathansv/LeetCodez/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/logarathansv/LeetCodez/tree/master/3647-zero-array-transformation-iii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +273,7 @@ This repository contains my solutions to LeetCode problems.
 | [3639-zero-array-transformation-i](https://github.com/logarathansv/LeetCodez/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/logarathansv/LeetCodez/tree/master/3647-zero-array-transformation-iii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -351,6 +356,7 @@ This repository contains my solutions to LeetCode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/logarathansv/LeetCodez/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Recursion
 |  |
 | ------- |
