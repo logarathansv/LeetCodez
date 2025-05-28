@@ -324,6 +324,7 @@ This repository contains my solutions to LeetCode problems.
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/logarathansv/LeetCodez/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
@@ -367,6 +368,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/logarathansv/LeetCodez/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -386,6 +388,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/logarathansv/LeetCodez/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Memoization
 |  |
 | ------- |
