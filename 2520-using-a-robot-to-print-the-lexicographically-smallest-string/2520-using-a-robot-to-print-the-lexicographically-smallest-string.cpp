@@ -1,27 +1,26 @@
 class Solution {
 public:
     string robotWithString(string s) {
+        int n = s.size();
         string ans;
-
         stack<char> st;
-        unordered_map<char, int> ct;
 
-        for(auto ch:s) ct[ch]++;
-        char minc = 'a';
+        vector<char> minSuffix(n);
+        minSuffix[n - 1] = s[n - 1];
+        for (int i = n - 2; i >= 0; --i) {
+            minSuffix[i] = min(s[i], minSuffix[i + 1]);
+        }
 
-        for(int i=0;i<s.size();i++){
-            ct[s[i]]--;
+        for (int i = 0; i < n; ++i) {
             st.push(s[i]);
 
-            while(minc != 'z' && ct[minc] == 0) minc++;
-
-            while(!st.empty() && st.top() <= minc){
+            while (!st.empty() && st.top() <= minSuffix[i + 1 < n ? i + 1 : i]) {
                 ans += st.top();
                 st.pop();
             }
         }
 
-        while(!st.empty()) {
+        while (!st.empty()) {
             ans += st.top();
             st.pop();
         }
