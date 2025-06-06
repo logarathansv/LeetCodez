@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
+| [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
@@ -144,6 +145,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
@@ -328,6 +330,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
@@ -359,6 +362,7 @@ This repository contains my solutions to LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
