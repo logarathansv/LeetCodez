@@ -9,10 +9,8 @@ public:
         }
 
         for(int i=0;i<numCourses;i++) mp[i] = 0;
-        for(int i=0;i<numCourses;i++){
-            for(auto neigh : adj[i]){
-                mp[neigh]++;
-            }
+        for(int i=0;i<prerequisites.size();i++){
+                mp[prerequisites[i][1]]++;
         }
 
         queue<int> q;
