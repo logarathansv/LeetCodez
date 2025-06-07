@@ -17,6 +17,7 @@ public:
         for(int i=0;i<graph.size();i++){
             vector<int> vis(graph.size(), 0);
             if(!vis[i]){
+                vis[i] = 1;
                 if(!dfs(i, vis, graph, 0)) return false;
             }
         }
