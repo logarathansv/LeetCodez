@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/logarathansv/LeetCodez/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/logarathansv/LeetCodez/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/logarathansv/LeetCodez/tree/master/3637-count-number-of-balanced-permutations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/logarathansv/LeetCodez/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems.
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/logarathansv/LeetCodez/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/logarathansv/LeetCodez/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/logarathansv/LeetCodez/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -288,6 +290,7 @@ This repository contains my solutions to LeetCode problems.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/logarathansv/LeetCodez/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/logarathansv/LeetCodez/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/logarathansv/LeetCodez/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/logarathansv/LeetCodez/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
