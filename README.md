@@ -323,6 +323,7 @@ This repository contains my solutions to LeetCode problems.
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/logarathansv/LeetCodez/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
@@ -364,6 +365,7 @@ This repository contains my solutions to LeetCode problems.
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
@@ -388,6 +390,7 @@ This repository contains my solutions to LeetCode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
@@ -430,6 +433,7 @@ This repository contains my solutions to LeetCode problems.
 | [0386-lexicographical-numbers](https://github.com/logarathansv/LeetCodez/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
@@ -450,6 +454,7 @@ This repository contains my solutions to LeetCode problems.
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/logarathansv/LeetCodez/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/logarathansv/LeetCodez/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
