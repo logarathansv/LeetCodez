@@ -329,6 +329,7 @@ This repository contains my solutions to LeetCode problems.
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/logarathansv/LeetCodez/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/logarathansv/LeetCodez/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -378,6 +379,7 @@ This repository contains my solutions to LeetCode problems.
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/logarathansv/LeetCodez/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/logarathansv/LeetCodez/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -390,6 +392,7 @@ This repository contains my solutions to LeetCode problems.
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/logarathansv/LeetCodez/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
@@ -443,6 +446,7 @@ This repository contains my solutions to LeetCode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/logarathansv/LeetCodez/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/logarathansv/LeetCodez/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
