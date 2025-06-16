@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems.
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
@@ -233,6 +234,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/logarathansv/LeetCodez/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
@@ -284,6 +286,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/logarathansv/LeetCodez/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/logarathansv/LeetCodez/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
@@ -387,6 +390,7 @@ This repository contains my solutions to LeetCode problems.
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
@@ -406,6 +410,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/logarathansv/LeetCodez/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -417,6 +422,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
@@ -461,6 +467,7 @@ This repository contains my solutions to LeetCode problems.
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
