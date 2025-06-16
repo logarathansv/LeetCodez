@@ -134,6 +134,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
@@ -206,6 +207,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logarathansv/LeetCodez/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/logarathansv/LeetCodez/tree/master/1500-count-largest-group) |
@@ -504,6 +506,7 @@ This repository contains my solutions to LeetCode problems.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
