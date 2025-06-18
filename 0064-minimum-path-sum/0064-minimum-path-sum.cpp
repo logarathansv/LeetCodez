@@ -22,6 +22,24 @@ public:
 
         vector<vector<int>> dp(n, vector<int>(m, -1));
 
-        return findmin(n-1, m-1, grid, dp, n, m);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(i == 0 && j == 0){ 
+                    dp[i][j] = grid[i][j];  
+                    continue;
+                }
+
+                int left = INT_MAX, top = INT_MAX;
+                if(i > 0)
+                    left = dp[i-1][j];
+                if(j > 0)
+                    top = dp[i][j-1];
+
+                dp[i][j] = min(left, top) + grid[i][j];
+            }
+        }
+
+        return dp[n-1][m-1];
+        // return findmin(n-1, m-1, grid, dp, n, m);
     }
 };
