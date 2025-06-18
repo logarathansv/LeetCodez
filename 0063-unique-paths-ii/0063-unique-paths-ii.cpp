@@ -4,31 +4,33 @@ public:
         int n = obstacleGrid.size();
         int m = obstacleGrid[0].size();
 
-        vector<vector<int>> dp(n, vector<int>(m, 0));
+        vector<int> dp(n, 0);
 
         for(int i=0;i<n;i++){
+
+            vector<int> tp(m, 0);
+
             for(int j=0;j<m;j++){
                 if(obstacleGrid[i][j] == 1){
                     continue;
                 }
 
                 if(i == 0 && j == 0){
-                    dp[i][j] = 1;
+                    tp[i] = 1;
                     continue;
                 }
 
-                int ans  = 0;
                 if(i > 0){
-                    ans += dp[i-1][j];
+                    tp[j] += dp[j];
                 }
                 if(j > 0){
-                    ans += dp[i][j-1];
+                    tp[j] += tp[j-1];
                 }
-
-                dp[i][j] = ans;
             }
+
+            dp = tp;
         }
 
-        return dp[n-1][m-1];
+        return dp[m-1];
     }
 };
