@@ -1,6 +1,22 @@
 class Solution {
 public:
+    bool possible(int target, int ind, vector<int>& nums, vector<vector<int>> &memo){
+        if(target == 0) return true;
+        if(ind == 0) return nums[0] == target;
+
+        if(memo[ind][target] != -1) return memo[ind][target];
+
+        bool nott = possible(target, ind-1, nums, memo);
+
+        bool take = false;
+        if(nums[ind] <= target) take = possible(target - nums[ind], ind-1, nums, memo);
+
+        memo[ind][target] = nott || take;
+
+        return memo[ind][target]; 
+    }
     bool canPartition(vector<int>& nums) {
+        int n = nums.size();
         int sum = 0;
         for (int num : nums) {
             sum += num;
@@ -9,21 +25,8 @@ public:
             return false;
         }
 
-        unordered_set<int> dp;
-        dp.insert(0);
-        int target = sum / 2;
+        vector<vector<int>> memo(n, vector<int>(sum/2 + 1, -1));
 
-        for (int i = nums.size() - 1; i >= 0; i--) {
-            unordered_set<int> nextDP;
-            for (int t : dp) {
-                if (t + nums[i] == target) {
-                    return true;
-                }
-                nextDP.insert(t + nums[i]);
-                nextDP.insert(t);
-            }
-            dp = nextDP;
-        }
-        return false;
+        return possible(sum/2, n-1, nums, memo);        
     }
 };
