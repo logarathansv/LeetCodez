@@ -502,6 +502,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/logarathansv/LeetCodez/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/logarathansv/LeetCodez/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/logarathansv/LeetCodez/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
@@ -539,6 +540,7 @@ This repository contains my solutions to LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -557,12 +559,14 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
