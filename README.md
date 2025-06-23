@@ -539,6 +539,7 @@ This repository contains my solutions to LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -556,11 +557,13 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
