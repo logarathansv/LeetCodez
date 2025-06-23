@@ -540,6 +540,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/logarathansv/LeetCodez/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Memoization
@@ -556,8 +557,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
