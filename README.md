@@ -116,6 +116,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
@@ -184,6 +185,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
@@ -238,6 +240,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/logarathansv/LeetCodez/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
