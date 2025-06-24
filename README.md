@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems.
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/logarathansv/LeetCodez/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/logarathansv/LeetCodez/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/1078-remove-outermost-parentheses) |
@@ -578,4 +579,8 @@ This repository contains my solutions to LeetCode problems.
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/logarathansv/LeetCodez/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
