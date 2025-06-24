@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode problems.
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
@@ -185,6 +186,7 @@ This repository contains my solutions to LeetCode problems.
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
@@ -405,6 +407,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/logarathansv/LeetCodez/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
