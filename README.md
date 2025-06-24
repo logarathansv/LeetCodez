@@ -132,6 +132,7 @@ This repository contains my solutions to LeetCode problems.
 | [1078-remove-outermost-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/logarathansv/LeetCodez/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/logarathansv/LeetCodez/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/logarathansv/LeetCodez/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -197,6 +198,7 @@ This repository contains my solutions to LeetCode problems.
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/logarathansv/LeetCodez/tree/master/1500-count-largest-group) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/logarathansv/LeetCodez/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/logarathansv/LeetCodez/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -349,6 +351,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/logarathansv/LeetCodez/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/logarathansv/LeetCodez/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
