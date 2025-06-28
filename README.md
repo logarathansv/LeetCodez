@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/logarathansv/LeetCodez/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
@@ -170,6 +171,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/logarathansv/LeetCodez/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/logarathansv/LeetCodez/tree/master/0806-domino-and-tromino-tiling) |
@@ -506,6 +508,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/logarathansv/LeetCodez/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Combinatorics
