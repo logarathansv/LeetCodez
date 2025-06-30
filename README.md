@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems.
 | [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
@@ -210,6 +211,7 @@ This repository contains my solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
@@ -317,6 +319,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/logarathansv/LeetCodez/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/logarathansv/LeetCodez/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -376,6 +379,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/logarathansv/LeetCodez/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -448,6 +452,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/logarathansv/LeetCodez/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
