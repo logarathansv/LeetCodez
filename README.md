@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/logarathansv/LeetCodez/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/logarathansv/LeetCodez/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/logarathansv/LeetCodez/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/logarathansv/LeetCodez/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/logarathansv/LeetCodez/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
@@ -347,6 +348,7 @@ This repository contains my solutions to LeetCode problems.
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/logarathansv/LeetCodez/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/logarathansv/LeetCodez/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/logarathansv/LeetCodez/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
@@ -372,6 +374,7 @@ This repository contains my solutions to LeetCode problems.
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/logarathansv/LeetCodez/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/logarathansv/LeetCodez/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/logarathansv/LeetCodez/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Search
 |  |
