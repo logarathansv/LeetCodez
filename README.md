@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/logarathansv/LeetCodez/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
@@ -377,6 +379,7 @@ This repository contains my solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
