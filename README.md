@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
@@ -154,6 +155,7 @@ This repository contains my solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
@@ -202,6 +204,7 @@ This repository contains my solutions to LeetCode problems.
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/logarathansv/LeetCodez/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/logarathansv/LeetCodez/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
