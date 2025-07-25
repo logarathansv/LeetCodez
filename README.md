@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/logarathansv/LeetCodez/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/logarathansv/LeetCodez/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/logarathansv/LeetCodez/tree/master/2665-minimum-time-to-repair-cars) |
@@ -140,6 +141,7 @@ This repository contains my solutions to LeetCode problems.
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -278,6 +280,7 @@ This repository contains my solutions to LeetCode problems.
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/logarathansv/LeetCodez/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/2915-count-of-interesting-subarrays) |
@@ -538,6 +541,7 @@ This repository contains my solutions to LeetCode problems.
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/logarathansv/LeetCodez/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/logarathansv/LeetCodez/tree/master/3241-divide-array-into-arrays-with-max-difference) |
