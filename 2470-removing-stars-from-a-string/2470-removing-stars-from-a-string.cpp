@@ -11,10 +11,12 @@ public:
             else st.push(ch);
         }
 
-        while(!st.empty()) {str += st.top(); st.pop();} 
+        s = "";
+
+        while(!st.empty()) {s += st.top(); st.pop();} 
         
-        reverse(str.begin(), str.end());
+        reverse(s.begin(), s.end());
         
-        return str;
+        return s;
     }
 };
