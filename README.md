@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems.
 | [1798-max-number-of-k-sum-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/logarathansv/LeetCodez/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/logarathansv/LeetCodez/tree/master/1830-count-good-meals) |
+| [1833-find-the-highest-altitude](https://github.com/logarathansv/LeetCodez/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/logarathansv/LeetCodez/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/logarathansv/LeetCodez/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -474,6 +475,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
+| [1833-find-the-highest-altitude](https://github.com/logarathansv/LeetCodez/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/logarathansv/LeetCodez/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/logarathansv/LeetCodez/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/2915-count-of-interesting-subarrays) |
