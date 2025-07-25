@@ -159,6 +159,7 @@ This repository contains my solutions to LeetCode problems.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/logarathansv/LeetCodez/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/logarathansv/LeetCodez/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/logarathansv/LeetCodez/tree/master/3447-clear-digits) |
@@ -199,6 +200,7 @@ This repository contains my solutions to LeetCode problems.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/logarathansv/LeetCodez/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/logarathansv/LeetCodez/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/logarathansv/LeetCodez/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/logarathansv/LeetCodez/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/logarathansv/LeetCodez/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/logarathansv/LeetCodez/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -320,6 +322,7 @@ This repository contains my solutions to LeetCode problems.
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/logarathansv/LeetCodez/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/logarathansv/LeetCodez/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/logarathansv/LeetCodez/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/logarathansv/LeetCodez/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/logarathansv/LeetCodez/tree/master/3447-clear-digits) |
