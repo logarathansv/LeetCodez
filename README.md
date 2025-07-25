@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems.
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/logarathansv/LeetCodez/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/logarathansv/LeetCodez/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/logarathansv/LeetCodez/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2428-equal-row-and-column-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/logarathansv/LeetCodez/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -157,6 +158,7 @@ This repository contains my solutions to LeetCode problems.
 | [2048-build-array-from-permutation](https://github.com/logarathansv/LeetCodez/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/logarathansv/LeetCodez/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2428-equal-row-and-column-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/logarathansv/LeetCodez/tree/master/3447-clear-digits) |
@@ -289,6 +291,7 @@ This repository contains my solutions to LeetCode problems.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/logarathansv/LeetCodez/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/logarathansv/LeetCodez/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/logarathansv/LeetCodez/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -380,6 +383,7 @@ This repository contains my solutions to LeetCode problems.
 | [1171-shortest-path-in-binary-matrix](https://github.com/logarathansv/LeetCodez/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/logarathansv/LeetCodez/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
