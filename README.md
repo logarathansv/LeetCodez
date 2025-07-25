@@ -131,6 +131,7 @@ This repository contains my solutions to LeetCode problems.
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/logarathansv/LeetCodez/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/logarathansv/LeetCodez/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/logarathansv/LeetCodez/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +312,7 @@ This repository contains my solutions to LeetCode problems.
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/logarathansv/LeetCodez/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/logarathansv/LeetCodez/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/logarathansv/LeetCodez/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
@@ -446,6 +448,7 @@ This repository contains my solutions to LeetCode problems.
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/logarathansv/LeetCodez/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/logarathansv/LeetCodez/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/logarathansv/LeetCodez/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
