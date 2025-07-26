@@ -132,6 +132,7 @@ This repository contains my solutions to LeetCode problems.
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/logarathansv/LeetCodez/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/logarathansv/LeetCodez/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -506,6 +507,7 @@ This repository contains my solutions to LeetCode problems.
 | [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/logarathansv/LeetCodez/tree/master/3647-zero-array-transformation-iii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -669,6 +671,7 @@ This repository contains my solutions to LeetCode problems.
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/logarathansv/LeetCodez/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
 |  |
 | ------- |
@@ -790,4 +793,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
