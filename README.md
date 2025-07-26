@@ -520,6 +520,7 @@ This repository contains my solutions to LeetCode problems.
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/logarathansv/LeetCodez/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/logarathansv/LeetCodez/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -775,6 +776,7 @@ This repository contains my solutions to LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/logarathansv/LeetCodez/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -784,4 +786,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/logarathansv/LeetCodez/tree/master/2079-delete-duplicate-folders-in-system) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
