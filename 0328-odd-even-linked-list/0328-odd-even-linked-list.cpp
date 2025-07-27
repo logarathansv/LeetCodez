@@ -12,21 +12,19 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(head == nullptr || head->next == nullptr) return head; 
-        ListNode* even = nullptr;
+
+        ListNode* even = head->next;
         ListNode* odd = head;
-        ListNode* heade = nullptr;
+        ListNode* heade = even;
 
-        while(odd != nullptr && odd->next != nullptr){
-            if(even == nullptr) {even = odd->next;heade = even;}
-            else {even->next = odd->next;even = even->next;}
-            
-            cout<<"1";
-            if(odd->next->next == nullptr) break;
-
+        while(even != nullptr && even->next != nullptr){
             odd->next = odd->next->next;
+            even->next = even->next->next;
+
+            even = even->next;
             odd = odd->next;
         }
-        even->next = nullptr;
+
         odd->next = heade;
 
         return head;
