@@ -147,6 +147,7 @@ This repository contains my solutions to LeetCode problems.
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/logarathansv/LeetCodez/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -792,6 +793,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/logarathansv/LeetCodez/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
