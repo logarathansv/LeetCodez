@@ -793,6 +793,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/logarathansv/LeetCodez/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
