@@ -181,6 +181,7 @@ This repository contains my solutions to LeetCode problems.
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/logarathansv/LeetCodez/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/logarathansv/LeetCodez/tree/master/0812-rotate-string) |
@@ -426,6 +427,7 @@ This repository contains my solutions to LeetCode problems.
 | [0334-increasing-triplet-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
+| [0649-dota2-senate](https://github.com/logarathansv/LeetCodez/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/logarathansv/LeetCodez/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -522,6 +524,7 @@ This repository contains my solutions to LeetCode problems.
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/logarathansv/LeetCodez/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/logarathansv/LeetCodez/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
