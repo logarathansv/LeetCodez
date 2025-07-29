@@ -836,5 +836,6 @@ This repository contains my solutions to LeetCode problems.
 ## Database
 |  |
 | ------- |
+| [1161-project-employees-i](https://github.com/logarathansv/LeetCodez/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/logarathansv/LeetCodez/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
