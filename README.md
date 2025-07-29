@@ -833,4 +833,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/logarathansv/LeetCodez/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
