@@ -599,6 +599,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
@@ -699,6 +700,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
@@ -747,6 +749,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
@@ -783,6 +786,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
