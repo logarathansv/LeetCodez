@@ -94,6 +94,7 @@ This repository contains my solutions to LeetCode problems.
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/logarathansv/LeetCodez/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/logarathansv/LeetCodez/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/logarathansv/LeetCodez/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -531,6 +532,7 @@ This repository contains my solutions to LeetCode problems.
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/logarathansv/LeetCodez/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/logarathansv/LeetCodez/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/logarathansv/LeetCodez/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/logarathansv/LeetCodez/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -848,4 +850,8 @@ This repository contains my solutions to LeetCode problems.
 | [1390-average-selling-price](https://github.com/logarathansv/LeetCodez/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/logarathansv/LeetCodez/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/logarathansv/LeetCodez/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/logarathansv/LeetCodez/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
