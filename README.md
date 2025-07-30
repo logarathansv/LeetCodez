@@ -846,4 +846,5 @@ This repository contains my solutions to LeetCode problems.
 | [1338-queries-quality-and-percentage](https://github.com/logarathansv/LeetCodez/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/logarathansv/LeetCodez/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/logarathansv/LeetCodez/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/logarathansv/LeetCodez/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
