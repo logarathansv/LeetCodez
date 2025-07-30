@@ -20,19 +20,19 @@ public:
 
         while(!q.empty()){
             int size = q.size();
-            vector<int> dummy;
+            int val = -1;
 
             for(int i=0;i<size;i++){
                 TreeNode* curr = q.front();
                 q.pop();
 
-                dummy.push_back(curr->val);
+                val = curr->val;
 
                 if(curr->left != nullptr) q.push(curr->left);
                 if(curr->right) q.push(curr->right);
             }
 
-            rightside.push_back(dummy[dummy.size()-1]);
+            rightside.push_back(val);
         }
 
         return rightside;
