@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode problems.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/logarathansv/LeetCodez/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/logarathansv/LeetCodez/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/logarathansv/LeetCodez/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/logarathansv/LeetCodez/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -164,6 +165,7 @@ This repository contains my solutions to LeetCode problems.
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/logarathansv/LeetCodez/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/logarathansv/LeetCodez/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logarathansv/LeetCodez/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -178,6 +180,7 @@ This repository contains my solutions to LeetCode problems.
 | [2470-removing-stars-from-a-string](https://github.com/logarathansv/LeetCodez/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/logarathansv/LeetCodez/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3447-clear-digits](https://github.com/logarathansv/LeetCodez/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -691,6 +694,7 @@ This repository contains my solutions to LeetCode problems.
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/logarathansv/LeetCodez/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/logarathansv/LeetCodez/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/logarathansv/LeetCodez/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/logarathansv/LeetCodez/tree/master/2636-maximum-subsequence-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
