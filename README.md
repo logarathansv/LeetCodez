@@ -486,6 +486,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/logarathansv/LeetCodez/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/logarathansv/LeetCodez/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -910,4 +911,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/logarathansv/LeetCodez/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
