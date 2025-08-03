@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/logarathansv/LeetCodez/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
@@ -262,6 +263,7 @@ This repository contains my solutions to LeetCode problems.
 | [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/logarathansv/LeetCodez/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/logarathansv/LeetCodez/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
