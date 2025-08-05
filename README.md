@@ -151,6 +151,7 @@ This repository contains my solutions to LeetCode problems.
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/logarathansv/LeetCodez/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/logarathansv/LeetCodez/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This repository contains my solutions to LeetCode problems.
 | [2553-total-cost-to-hire-k-workers](https://github.com/logarathansv/LeetCodez/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3447-clear-digits](https://github.com/logarathansv/LeetCodez/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -522,6 +524,7 @@ This repository contains my solutions to LeetCode problems.
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -808,6 +811,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/logarathansv/LeetCodez/tree/master/2413-smallest-number-in-infinite-set) |
+| [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -909,6 +913,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
