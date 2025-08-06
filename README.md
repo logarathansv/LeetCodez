@@ -152,6 +152,7 @@ This repository contains my solutions to LeetCode problems.
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/logarathansv/LeetCodez/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/logarathansv/LeetCodez/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -525,6 +526,7 @@ This repository contains my solutions to LeetCode problems.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/logarathansv/LeetCodez/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/logarathansv/LeetCodez/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -812,6 +814,7 @@ This repository contains my solutions to LeetCode problems.
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/logarathansv/LeetCodez/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/logarathansv/LeetCodez/tree/master/3791-fruits-into-baskets-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -914,6 +917,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/logarathansv/LeetCodez/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/logarathansv/LeetCodez/tree/master/3791-fruits-into-baskets-iii) |
 ## Database
 |  |
 | ------- |
