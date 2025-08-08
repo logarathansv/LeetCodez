@@ -263,6 +263,7 @@ This repository contains my solutions to LeetCode problems.
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/logarathansv/LeetCodez/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/logarathansv/LeetCodez/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/logarathansv/LeetCodez/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
@@ -572,6 +573,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/logarathansv/LeetCodez/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/logarathansv/LeetCodez/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
