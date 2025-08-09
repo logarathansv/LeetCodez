@@ -389,6 +389,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/logarathansv/LeetCodez/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/logarathansv/LeetCodez/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -575,6 +576,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/logarathansv/LeetCodez/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -770,6 +772,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/logarathansv/LeetCodez/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
