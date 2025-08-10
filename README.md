@@ -321,6 +321,7 @@ This repository contains my solutions to LeetCode problems.
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/logarathansv/LeetCodez/tree/master/1319-unique-number-of-occurrences) |
@@ -394,6 +395,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/logarathansv/LeetCodez/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/logarathansv/LeetCodez/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/logarathansv/LeetCodez/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -544,6 +546,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/logarathansv/LeetCodez/tree/master/1777-determine-if-two-strings-are-close) |
@@ -641,6 +644,7 @@ This repository contains my solutions to LeetCode problems.
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/logarathansv/LeetCodez/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/logarathansv/LeetCodez/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/logarathansv/LeetCodez/tree/master/1777-determine-if-two-strings-are-close) |
@@ -762,6 +766,7 @@ This repository contains my solutions to LeetCode problems.
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/logarathansv/LeetCodez/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/logarathansv/LeetCodez/tree/master/2140-longest-subsequence-repeated-k-times) |
