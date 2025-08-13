@@ -395,6 +395,7 @@ This repository contains my solutions to LeetCode problems.
 | [0062-unique-paths](https://github.com/logarathansv/LeetCodez/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
@@ -785,6 +786,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/logarathansv/LeetCodez/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
