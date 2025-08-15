@@ -598,6 +598,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/logarathansv/LeetCodez/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/logarathansv/LeetCodez/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/logarathansv/LeetCodez/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2308-divide-array-into-equal-pairs) |
