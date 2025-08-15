@@ -373,6 +373,7 @@ This repository contains my solutions to LeetCode problems.
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/logarathansv/LeetCodez/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -390,6 +391,7 @@ This repository contains my solutions to LeetCode problems.
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/logarathansv/LeetCodez/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/logarathansv/LeetCodez/tree/master/2227-sum-of-subarray-ranges) |
 ## Math
@@ -926,6 +928,7 @@ This repository contains my solutions to LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/logarathansv/LeetCodez/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/logarathansv/LeetCodez/tree/master/2413-smallest-number-in-infinite-set) |
@@ -943,6 +946,7 @@ This repository contains my solutions to LeetCode problems.
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 ## Segment Tree
 |  |
