@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/logarathansv/LeetCodez/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/logarathansv/LeetCodez/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
@@ -765,6 +766,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/logarathansv/LeetCodez/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0216-combination-sum-iii) |
