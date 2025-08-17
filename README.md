@@ -283,6 +283,7 @@ This repository contains my solutions to LeetCode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/logarathansv/LeetCodez/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
@@ -408,6 +409,7 @@ This repository contains my solutions to LeetCode problems.
 | [0342-power-of-four](https://github.com/logarathansv/LeetCodez/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/logarathansv/LeetCodez/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/logarathansv/LeetCodez/tree/master/1236-n-th-tribonacci-number) |
@@ -474,6 +476,7 @@ This repository contains my solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/logarathansv/LeetCodez/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0940-fruit-into-baskets) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/logarathansv/LeetCodez/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -995,4 +998,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
