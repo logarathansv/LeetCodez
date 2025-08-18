@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/logarathansv/LeetCodez/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/logarathansv/LeetCodez/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
@@ -205,6 +206,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/logarathansv/LeetCodez/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
@@ -320,6 +322,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
@@ -663,6 +666,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
