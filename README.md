@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems.
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/logarathansv/LeetCodez/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/logarathansv/LeetCodez/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/logarathansv/LeetCodez/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/logarathansv/LeetCodez/tree/master/0724-find-pivot-index) |
@@ -407,6 +408,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logarathansv/LeetCodez/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/logarathansv/LeetCodez/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
@@ -776,6 +778,7 @@ This repository contains my solutions to LeetCode problems.
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/logarathansv/LeetCodez/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/logarathansv/LeetCodez/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/logarathansv/LeetCodez/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
