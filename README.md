@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/logarathansv/LeetCodez/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/logarathansv/LeetCodez/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/logarathansv/LeetCodez/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/logarathansv/LeetCodez/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/logarathansv/LeetCodez/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logarathansv/LeetCodez/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/logarathansv/LeetCodez/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -299,6 +300,7 @@ This repository contains my solutions to LeetCode problems.
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/logarathansv/LeetCodez/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/logarathansv/LeetCodez/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/logarathansv/LeetCodez/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/logarathansv/LeetCodez/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/logarathansv/LeetCodez/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -467,6 +469,7 @@ This repository contains my solutions to LeetCode problems.
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/logarathansv/LeetCodez/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/logarathansv/LeetCodez/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/logarathansv/LeetCodez/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/logarathansv/LeetCodez/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
