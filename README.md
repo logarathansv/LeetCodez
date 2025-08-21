@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/logarathansv/LeetCodez/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
@@ -513,6 +514,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/logarathansv/LeetCodez/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
