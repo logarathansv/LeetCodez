@@ -149,6 +149,7 @@ This repository contains my solutions to LeetCode problems.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/logarathansv/LeetCodez/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/logarathansv/LeetCodez/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/logarathansv/LeetCodez/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -488,6 +489,7 @@ This repository contains my solutions to LeetCode problems.
 | [2428-equal-row-and-column-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/logarathansv/LeetCodez/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/logarathansv/LeetCodez/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/logarathansv/LeetCodez/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/logarathansv/LeetCodez/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
