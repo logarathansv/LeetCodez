@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems.
 | [0213-house-robber-ii](https://github.com/logarathansv/LeetCodez/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0216-combination-sum-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/logarathansv/LeetCodez/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0334-increasing-triplet-subsequence) |
@@ -285,6 +286,7 @@ This repository contains my solutions to LeetCode problems.
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/logarathansv/LeetCodez/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/logarathansv/LeetCodez/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/logarathansv/LeetCodez/tree/master/0338-counting-bits) |
@@ -567,6 +569,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/logarathansv/LeetCodez/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
