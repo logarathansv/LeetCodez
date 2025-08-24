@@ -786,6 +786,7 @@ This repository contains my solutions to LeetCode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
@@ -990,6 +991,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/logarathansv/LeetCodez/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/logarathansv/LeetCodez/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1028,6 +1030,7 @@ This repository contains my solutions to LeetCode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -1042,4 +1045,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
