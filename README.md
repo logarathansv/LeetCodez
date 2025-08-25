@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems.
 | [0416-partition-equal-subset-sum](https://github.com/logarathansv/LeetCodez/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/logarathansv/LeetCodez/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/logarathansv/LeetCodez/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/logarathansv/LeetCodez/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
@@ -203,6 +204,7 @@ This repository contains my solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/logarathansv/LeetCodez/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/logarathansv/LeetCodez/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/logarathansv/LeetCodez/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/logarathansv/LeetCodez/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -477,6 +479,7 @@ This repository contains my solutions to LeetCode problems.
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/logarathansv/LeetCodez/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
