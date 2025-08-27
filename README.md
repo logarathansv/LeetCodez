@@ -742,6 +742,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
@@ -868,6 +869,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -929,6 +931,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -973,6 +976,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
