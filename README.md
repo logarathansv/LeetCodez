@@ -227,6 +227,7 @@ This repository contains my solutions to LeetCode problems.
 | [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/logarathansv/LeetCodez/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/logarathansv/LeetCodez/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
@@ -290,6 +291,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/logarathansv/LeetCodez/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/logarathansv/LeetCodez/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
