@@ -271,6 +271,7 @@ This repository contains my solutions to LeetCode problems.
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/logarathansv/LeetCodez/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/logarathansv/LeetCodez/tree/master/3194-find-words-containing-character) |
+| [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/logarathansv/LeetCodez/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/logarathansv/LeetCodez/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -397,6 +398,7 @@ This repository contains my solutions to LeetCode problems.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/2915-count-of-interesting-subarrays) |
+| [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/logarathansv/LeetCodez/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -473,6 +475,7 @@ This repository contains my solutions to LeetCode problems.
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/logarathansv/LeetCodez/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/logarathansv/LeetCodez/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/logarathansv/LeetCodez/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
@@ -521,6 +524,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/logarathansv/LeetCodez/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/logarathansv/LeetCodez/tree/master/2610-closest-prime-numbers-in-range) |
+| [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -650,6 +654,7 @@ This repository contains my solutions to LeetCode problems.
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/logarathansv/LeetCodez/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/logarathansv/LeetCodez/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/2915-count-of-interesting-subarrays) |
+| [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/logarathansv/LeetCodez/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/logarathansv/LeetCodez/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/logarathansv/LeetCodez/tree/master/3639-zero-array-transformation-i) |
@@ -864,6 +869,7 @@ This repository contains my solutions to LeetCode problems.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/logarathansv/LeetCodez/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/logarathansv/LeetCodez/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/logarathansv/LeetCodez/tree/master/2998-count-symmetric-integers) |
+| [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/logarathansv/LeetCodez/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/logarathansv/LeetCodez/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
