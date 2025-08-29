@@ -225,6 +225,7 @@ This repository contains my solutions to LeetCode problems.
 | [0014-longest-common-prefix](https://github.com/logarathansv/LeetCodez/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/logarathansv/LeetCodez/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/logarathansv/LeetCodez/tree/master/0115-distinct-subsequences) |
@@ -285,6 +286,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/logarathansv/LeetCodez/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/logarathansv/LeetCodez/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/logarathansv/LeetCodez/tree/master/0063-unique-paths-ii) |
@@ -546,6 +548,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/logarathansv/LeetCodez/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/logarathansv/LeetCodez/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0334-increasing-triplet-subsequence) |
@@ -870,6 +873,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/logarathansv/LeetCodez/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logarathansv/LeetCodez/tree/master/0342-power-of-four) |
