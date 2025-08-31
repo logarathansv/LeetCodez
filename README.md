@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/logarathansv/LeetCodez/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/logarathansv/LeetCodez/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/logarathansv/LeetCodez/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
@@ -359,6 +360,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/logarathansv/LeetCodez/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
@@ -493,6 +495,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/logarathansv/LeetCodez/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/logarathansv/LeetCodez/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
@@ -845,6 +848,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/logarathansv/LeetCodez/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
