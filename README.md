@@ -151,6 +151,7 @@ This repository contains my solutions to LeetCode problems.
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/logarathansv/LeetCodez/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/logarathansv/LeetCodez/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/logarathansv/LeetCodez/tree/master/3430-count-days-without-meetings) |
@@ -481,6 +482,7 @@ This repository contains my solutions to LeetCode problems.
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/logarathansv/LeetCodez/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/logarathansv/LeetCodez/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/logarathansv/LeetCodez/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
@@ -759,6 +761,7 @@ This repository contains my solutions to LeetCode problems.
 | [2689-rearranging-fruits](https://github.com/logarathansv/LeetCodez/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/logarathansv/LeetCodez/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/logarathansv/LeetCodez/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -878,6 +881,7 @@ This repository contains my solutions to LeetCode problems.
 | [2202-sum-of-k-mirror-numbers](https://github.com/logarathansv/LeetCodez/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/logarathansv/LeetCodez/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/logarathansv/LeetCodez/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/logarathansv/LeetCodez/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1097,4 +1101,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
