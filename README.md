@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems.
 | [0213-house-robber-ii](https://github.com/logarathansv/LeetCodez/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/logarathansv/LeetCodez/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
@@ -372,6 +373,7 @@ This repository contains my solutions to LeetCode problems.
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
@@ -745,6 +747,7 @@ This repository contains my solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/logarathansv/LeetCodez/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
