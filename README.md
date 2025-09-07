@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/logarathansv/LeetCodez/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
@@ -430,6 +431,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
@@ -464,6 +466,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/logarathansv/LeetCodez/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logarathansv/LeetCodez/tree/master/0342-power-of-four) |
