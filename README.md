@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/logarathansv/LeetCodez/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
@@ -191,6 +192,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
@@ -615,6 +617,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/logarathansv/LeetCodez/tree/master/0374-guess-number-higher-or-lower) |
