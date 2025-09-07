@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/logarathansv/LeetCodez/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/logarathansv/LeetCodez/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/logarathansv/LeetCodez/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
@@ -375,6 +376,7 @@ This repository contains my solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
@@ -642,6 +644,7 @@ This repository contains my solutions to LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
@@ -749,6 +752,7 @@ This repository contains my solutions to LeetCode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/logarathansv/LeetCodez/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
@@ -840,6 +844,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
@@ -1046,6 +1051,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 ## Design
 |  |
@@ -1099,10 +1105,12 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
