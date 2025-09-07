@@ -186,6 +186,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/logarathansv/LeetCodez/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
@@ -228,6 +229,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/logarathansv/LeetCodez/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/logarathansv/LeetCodez/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/logarathansv/LeetCodez/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
@@ -1036,6 +1038,7 @@ This repository contains my solutions to LeetCode problems.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/logarathansv/LeetCodez/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
