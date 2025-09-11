@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/logarathansv/LeetCodez/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
@@ -439,6 +440,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/logarathansv/LeetCodez/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
@@ -462,6 +464,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/logarathansv/LeetCodez/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/logarathansv/LeetCodez/tree/master/0739-daily-temperatures) |
