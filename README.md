@@ -202,6 +202,7 @@ This repository contains my solutions to LeetCode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/logarathansv/LeetCodez/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/logarathansv/LeetCodez/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/logarathansv/LeetCodez/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -260,6 +261,7 @@ This repository contains my solutions to LeetCode problems.
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/logarathansv/LeetCodez/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/logarathansv/LeetCodez/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/logarathansv/LeetCodez/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
@@ -394,6 +396,7 @@ This repository contains my solutions to LeetCode problems.
 | [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/logarathansv/LeetCodez/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/logarathansv/LeetCodez/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
@@ -576,6 +579,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/logarathansv/LeetCodez/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/logarathansv/LeetCodez/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/logarathansv/LeetCodez/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
