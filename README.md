@@ -200,6 +200,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
@@ -455,6 +456,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/logarathansv/LeetCodez/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
@@ -961,6 +963,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/logarathansv/LeetCodez/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logarathansv/LeetCodez/tree/master/0342-power-of-four) |
@@ -1117,6 +1120,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/logarathansv/LeetCodez/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/logarathansv/LeetCodez/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
