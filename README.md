@@ -401,6 +401,7 @@ This repository contains my solutions to LeetCode problems.
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
@@ -1123,6 +1124,7 @@ This repository contains my solutions to LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/logarathansv/LeetCodez/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1134,6 +1136,7 @@ This repository contains my solutions to LeetCode problems.
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/logarathansv/LeetCodez/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/logarathansv/LeetCodez/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1203,4 +1206,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/3462-vowels-game-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
