@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/logarathansv/LeetCodez/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
@@ -255,6 +256,7 @@ This repository contains my solutions to LeetCode problems.
 | [0044-wildcard-matching](https://github.com/logarathansv/LeetCodez/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/logarathansv/LeetCodez/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/logarathansv/LeetCodez/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
@@ -563,6 +565,7 @@ This repository contains my solutions to LeetCode problems.
 | [0063-unique-paths-ii](https://github.com/logarathansv/LeetCodez/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/logarathansv/LeetCodez/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/logarathansv/LeetCodez/tree/master/0498-diagonal-traverse) |
@@ -940,6 +943,7 @@ This repository contains my solutions to LeetCode problems.
 | [0022-generate-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/logarathansv/LeetCodez/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0216-combination-sum-iii) |
@@ -992,6 +996,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
