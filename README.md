@@ -266,6 +266,7 @@ This repository contains my solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/logarathansv/LeetCodez/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
@@ -519,6 +520,7 @@ This repository contains my solutions to LeetCode problems.
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/logarathansv/LeetCodez/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/logarathansv/LeetCodez/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/logarathansv/LeetCodez/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logarathansv/LeetCodez/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/logarathansv/LeetCodez/tree/master/0679-24-game) |
@@ -958,6 +960,7 @@ This repository contains my solutions to LeetCode problems.
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/logarathansv/LeetCodez/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/logarathansv/LeetCodez/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/logarathansv/LeetCodez/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
