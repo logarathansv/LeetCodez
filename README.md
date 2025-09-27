@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [0747-min-cost-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/logarathansv/LeetCodez/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/logarathansv/LeetCodez/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/logarathansv/LeetCodez/tree/master/0890-lemonade-change) |
@@ -526,6 +527,7 @@ This repository contains my solutions to LeetCode problems.
 | [0679-24-game](https://github.com/logarathansv/LeetCodez/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/logarathansv/LeetCodez/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/logarathansv/LeetCodez/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/logarathansv/LeetCodez/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1237,6 +1239,7 @@ This repository contains my solutions to LeetCode problems.
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/logarathansv/LeetCodez/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Game Theory
 |  |
