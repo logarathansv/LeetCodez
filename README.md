@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/logarathansv/LeetCodez/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/logarathansv/LeetCodez/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
@@ -264,6 +265,7 @@ This repository contains my solutions to LeetCode problems.
 | [0115-distinct-subsequences](https://github.com/logarathansv/LeetCodez/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
@@ -344,6 +346,7 @@ This repository contains my solutions to LeetCode problems.
 | [0118-pascals-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/logarathansv/LeetCodez/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/logarathansv/LeetCodez/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0300-longest-increasing-subsequence) |
@@ -411,6 +414,7 @@ This repository contains my solutions to LeetCode problems.
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/logarathansv/LeetCodez/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
@@ -1103,6 +1107,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/logarathansv/LeetCodez/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/logarathansv/LeetCodez/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1112,6 +1117,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logarathansv/LeetCodez/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/logarathansv/LeetCodez/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/logarathansv/LeetCodez/tree/master/0440-k-th-smallest-in-lexicographical-order) |
