@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems.
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/logarathansv/LeetCodez/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/logarathansv/LeetCodez/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/logarathansv/LeetCodez/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/logarathansv/LeetCodez/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/logarathansv/LeetCodez/tree/master/1319-unique-number-of-occurrences) |
@@ -372,6 +373,7 @@ This repository contains my solutions to LeetCode problems.
 | [0934-bitwise-ors-of-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0967-minimum-falling-path-sum) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/logarathansv/LeetCodez/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/logarathansv/LeetCodez/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/1250-longest-common-subsequence) |
