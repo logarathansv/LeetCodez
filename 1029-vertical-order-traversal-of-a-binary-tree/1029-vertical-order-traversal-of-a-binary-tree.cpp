@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-    static bool cmp(pair<int, int>& a, pair<int, int>& b){
-        if(a.second == b.second) return a.first<b.first;
-        else return a.second<b.second;
-    }
+    struct cmp{
+        bool operator()(pair<int, int>& a, pair<int, int>& b){
+            if(a.second == b.second) return a.first>b.first;
+            else return a.second>b.second;
+        }
+    };
+    
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, vector<pair<int, int>>> mp;
+        map<int, priority_queue<pair<int, int>, vector<pair<int,int>>, cmp>> mp;
         queue<tuple<TreeNode*, int, int>> q;
 
         q.push({root, 0, 0});
         while(!q.empty()){
             auto [ele, pos, dep] = q.front();
             q.pop();
-            mp[pos].push_back({ele->val, dep});
+            mp[pos].push({ele->val, dep});
 
             if(ele->left != nullptr){
                 q.push({ele->left, pos-1, dep+1});
@@ -35,10 +38,11 @@ public:
 
         vector<vector<int>> ans;
         for(auto &ele:mp){
-            sort(ele.second.begin(), ele.second.end(), cmp);
+            // sort(ele.second.begin(), ele.second.end(), cmp);
             vector<int> res;
-            for(auto m:ele.second){
-                res.push_back(m.first);
+            while(!ele.second.empty()){
+                res.push_back(ele.second.top().first);
+                ele.second.pop();
             }
             ans.push_back(res);
         }
