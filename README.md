@@ -248,6 +248,7 @@ This repository contains my solutions to LeetCode problems.
 | [2479-meeting-rooms-iii](https://github.com/logarathansv/LeetCodez/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/logarathansv/LeetCodez/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/logarathansv/LeetCodez/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3336-water-bottles-ii](https://github.com/logarathansv/LeetCodez/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/logarathansv/LeetCodez/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/logarathansv/LeetCodez/tree/master/3790-fruits-into-baskets-ii) |
@@ -566,6 +567,7 @@ This repository contains my solutions to LeetCode problems.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/logarathansv/LeetCodez/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/logarathansv/LeetCodez/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/logarathansv/LeetCodez/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/logarathansv/LeetCodez/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/logarathansv/LeetCodez/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/logarathansv/LeetCodez/tree/master/3600-find-the-k-th-character-in-string-game-i) |
