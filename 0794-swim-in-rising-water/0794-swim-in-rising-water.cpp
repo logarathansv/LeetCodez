@@ -29,6 +29,7 @@ public:
                 int nc = col + dcol[i];
 
                 if(nr >=0 && nc >=0 && nr < n && nc < n){
+                    if(dist[nr][nc] != INT_MAX) continue;
                     int maxi = max(grid[nr][nc], wt);
                     if(maxi < dist[nr][nc]){
                         
