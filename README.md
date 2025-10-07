@@ -274,6 +274,7 @@ This repository contains my solutions to LeetCode problems.
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/logarathansv/LeetCodez/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/logarathansv/LeetCodez/tree/master/0399-evaluate-division) |
@@ -425,6 +426,7 @@ This repository contains my solutions to LeetCode problems.
 | [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/logarathansv/LeetCodez/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/logarathansv/LeetCodez/tree/master/0567-permutation-in-string) |
@@ -730,6 +732,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
@@ -796,6 +799,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/logarathansv/LeetCodez/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/logarathansv/LeetCodez/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
