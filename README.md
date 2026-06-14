@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 | [0014-longest-common-prefix](https://github.com/logarathansv/LeetCodez/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/logarathansv/LeetCodez/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/logarathansv/LeetCodez/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/logarathansv/LeetCodez/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/logarathansv/LeetCodez/tree/master/0049-group-anagrams) |
@@ -975,6 +976,7 @@ This repository contains my solutions to LeetCode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/logarathansv/LeetCodez/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/logarathansv/LeetCodez/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/logarathansv/LeetCodez/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/logarathansv/LeetCodez/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/logarathansv/LeetCodez/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
