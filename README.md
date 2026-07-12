@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/logarathansv/LeetCodez/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/logarathansv/LeetCodez/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/logarathansv/LeetCodez/tree/master/0128-longest-consecutive-sequence) |
@@ -1110,6 +1111,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1154,6 +1156,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
@@ -1164,6 +1167,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/logarathansv/LeetCodez/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/logarathansv/LeetCodez/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1255,6 +1259,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/logarathansv/LeetCodez/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
