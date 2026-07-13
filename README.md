@@ -1240,6 +1240,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/logarathansv/LeetCodez/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/logarathansv/LeetCodez/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/logarathansv/LeetCodez/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/logarathansv/LeetCodez/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/logarathansv/LeetCodez/tree/master/1141-user-activity-for-the-past-30-days-i) |
