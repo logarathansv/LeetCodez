@@ -1006,6 +1006,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/logarathansv/LeetCodez/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/logarathansv/LeetCodez/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/logarathansv/LeetCodez/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/logarathansv/LeetCodez/tree/master/2140-longest-subsequence-repeated-k-times) |
