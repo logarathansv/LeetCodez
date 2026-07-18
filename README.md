@@ -499,6 +499,7 @@ This repository contains my solutions to LeetCode problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/logarathansv/LeetCodez/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/logarathansv/LeetCodez/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/logarathansv/LeetCodez/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/logarathansv/LeetCodez/tree/master/0503-next-greater-element-ii) |
@@ -1125,6 +1126,7 @@ This repository contains my solutions to LeetCode problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/logarathansv/LeetCodez/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/logarathansv/LeetCodez/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1167,6 +1169,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
@@ -1185,6 +1188,7 @@ This repository contains my solutions to LeetCode problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/logarathansv/LeetCodez/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/logarathansv/LeetCodez/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/logarathansv/LeetCodez/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1213,6 +1217,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
@@ -1318,4 +1323,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
