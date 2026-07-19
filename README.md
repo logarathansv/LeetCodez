@@ -278,6 +278,7 @@ This repository contains my solutions to LeetCode problems.
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/logarathansv/LeetCodez/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
@@ -908,6 +909,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/logarathansv/LeetCodez/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/logarathansv/LeetCodez/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/logarathansv/LeetCodez/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/logarathansv/LeetCodez/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
@@ -1063,6 +1065,7 @@ This repository contains my solutions to LeetCode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/logarathansv/LeetCodez/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/logarathansv/LeetCodez/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0437-path-sum-iii) |
@@ -1133,6 +1136,7 @@ This repository contains my solutions to LeetCode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1197,6 +1201,7 @@ This repository contains my solutions to LeetCode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/logarathansv/LeetCodez/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1224,6 +1229,7 @@ This repository contains my solutions to LeetCode problems.
 | [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/logarathansv/LeetCodez/tree/master/1995-finding-pairs-with-a-certain-sum) |
