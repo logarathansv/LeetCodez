@@ -385,6 +385,7 @@ This repository contains my solutions to LeetCode problems.
 | [1170-shortest-common-supersequence](https://github.com/logarathansv/LeetCodez/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/logarathansv/LeetCodez/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/1250-longest-common-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/logarathansv/LeetCodez/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/logarathansv/LeetCodez/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/logarathansv/LeetCodez/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1081,6 +1082,7 @@ This repository contains my solutions to LeetCode problems.
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/logarathansv/LeetCodez/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/logarathansv/LeetCodez/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1140,6 +1142,7 @@ This repository contains my solutions to LeetCode problems.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/logarathansv/LeetCodez/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/logarathansv/LeetCodez/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1177,6 +1180,7 @@ This repository contains my solutions to LeetCode problems.
 | [0783-search-in-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/logarathansv/LeetCodez/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/logarathansv/LeetCodez/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1202,6 +1206,7 @@ This repository contains my solutions to LeetCode problems.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/logarathansv/LeetCodez/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
