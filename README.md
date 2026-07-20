@@ -217,6 +217,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/logarathansv/LeetCodez/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/logarathansv/LeetCodez/tree/master/0443-string-compression) |
@@ -863,6 +864,7 @@ This repository contains my solutions to LeetCode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/logarathansv/LeetCodez/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logarathansv/LeetCodez/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/logarathansv/LeetCodez/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/logarathansv/LeetCodez/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -965,6 +967,7 @@ This repository contains my solutions to LeetCode problems.
 | [0023-merge-k-sorted-lists](https://github.com/logarathansv/LeetCodez/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/logarathansv/LeetCodez/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/logarathansv/LeetCodez/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/logarathansv/LeetCodez/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
@@ -1237,6 +1240,7 @@ This repository contains my solutions to LeetCode problems.
 | [0146-lru-cache](https://github.com/logarathansv/LeetCodez/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/logarathansv/LeetCodez/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/logarathansv/LeetCodez/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/logarathansv/LeetCodez/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/logarathansv/LeetCodez/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
@@ -1267,6 +1271,7 @@ This repository contains my solutions to LeetCode problems.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/logarathansv/LeetCodez/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/logarathansv/LeetCodez/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/logarathansv/LeetCodez/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/logarathansv/LeetCodez/tree/master/0969-number-of-recent-calls) |
