@@ -11,48 +11,41 @@
  */
 class Solution {
 public:
-    TreeNode* findlast(TreeNode* root){
-        if(root->right == nullptr){
-            return root;
-        }
-
-        return findlast(root->right);
-    }
-    TreeNode* helper(TreeNode* root){
-        if(root->left == nullptr) return root->right;
-        if(root->right == nullptr) return root->left;
-
-        TreeNode* lnode = findlast(root->left);
-        lnode->right = root->right;
-
-        return root->left;
-    }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root == nullptr) return nullptr;
-
+        if(root == nullptr) return root;
         if(root->val == key) return helper(root);
 
-        TreeNode* head = root;
-
+        TreeNode* dummy = root;
         while(root){
-            int curval = root->val;
-
-            if(curval > key){
+            if(root->val > key){
                 if(root->left != nullptr && root->left->val == key){
                     root->left = helper(root->left);
                     break;
-                }
-                else root = root->left;
-            }
-            else{
+                } else root = root->left;
+            } else if(root->val < key){
                 if(root->right != nullptr && root->right->val == key){
                     root->right = helper(root->right);
                     break;
-                }
-                else root = root->right;
+                } else root = root->right;
             }
         }
 
-        return head;
+        return dummy;
+    }
+
+    TreeNode* helper(TreeNode* root){
+        if(root->left == nullptr) return root->right;
+        else if(root->right == nullptr) return root->left;
+
+        TreeNode* rightch = root->right;
+        TreeNode* lastright = findlastr(root->left);
+        lastright->right = rightch;
+
+        return root->left;
+    }
+
+    TreeNode* findlastr(TreeNode* node){
+        if(node->right == nullptr) return node;
+        return findlastr(node->right);
     }
 };
