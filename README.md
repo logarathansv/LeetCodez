@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems.
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/logarathansv/LeetCodez/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/logarathansv/LeetCodez/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/logarathansv/LeetCodez/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/logarathansv/LeetCodez/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/logarathansv/LeetCodez/tree/master/1036-rotting-oranges) |
@@ -661,6 +662,7 @@ This repository contains my solutions to LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/logarathansv/LeetCodez/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/logarathansv/LeetCodez/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/logarathansv/LeetCodez/tree/master/1004-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/logarathansv/LeetCodez/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/logarathansv/LeetCodez/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/logarathansv/LeetCodez/tree/master/1813-maximum-erasure-value) |
@@ -734,6 +736,7 @@ This repository contains my solutions to LeetCode problems.
 | [0374-guess-number-higher-or-lower](https://github.com/logarathansv/LeetCodez/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/logarathansv/LeetCodez/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/logarathansv/LeetCodez/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/logarathansv/LeetCodez/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/logarathansv/LeetCodez/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -787,6 +790,7 @@ This repository contains my solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/logarathansv/LeetCodez/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/logarathansv/LeetCodez/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/logarathansv/LeetCodez/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/logarathansv/LeetCodez/tree/master/1004-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/logarathansv/LeetCodez/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/logarathansv/LeetCodez/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/logarathansv/LeetCodez/tree/master/2249-count-the-hidden-sequences) |
