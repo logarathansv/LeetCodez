@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems.
 | [0943-sum-of-subarray-minimums](https://github.com/logarathansv/LeetCodez/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/logarathansv/LeetCodez/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0967-minimum-falling-path-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/logarathansv/LeetCodez/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/logarathansv/LeetCodez/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/logarathansv/LeetCodez/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/logarathansv/LeetCodez/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -461,6 +462,7 @@ This repository contains my solutions to LeetCode problems.
 | [0904-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/logarathansv/LeetCodez/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/logarathansv/LeetCodez/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/logarathansv/LeetCodez/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -674,6 +676,7 @@ This repository contains my solutions to LeetCode problems.
 | [0904-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/logarathansv/LeetCodez/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/logarathansv/LeetCodez/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/logarathansv/LeetCodez/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/logarathansv/LeetCodez/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/logarathansv/LeetCodez/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -783,6 +786,7 @@ This repository contains my solutions to LeetCode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
+| [0992-subarrays-with-k-different-integers](https://github.com/logarathansv/LeetCodez/tree/master/0992-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/logarathansv/LeetCodez/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/logarathansv/LeetCodez/tree/master/1777-determine-if-two-strings-are-close) |
