@@ -225,6 +225,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logarathansv/LeetCodez/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/logarathansv/LeetCodez/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/logarathansv/LeetCodez/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/logarathansv/LeetCodez/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/logarathansv/LeetCodez/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/logarathansv/LeetCodez/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/logarathansv/LeetCodez/tree/master/0189-rotate-array) |
@@ -286,6 +287,7 @@ This repository contains my solutions to LeetCode problems.
 | [0076-minimum-window-substring](https://github.com/logarathansv/LeetCodez/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/logarathansv/LeetCodez/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/logarathansv/LeetCodez/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/logarathansv/LeetCodez/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/logarathansv/LeetCodez/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/logarathansv/LeetCodez/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/logarathansv/LeetCodez/tree/master/0139-word-break) |
