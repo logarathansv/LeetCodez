@@ -114,6 +114,7 @@ This repository contains my solutions to LeetCode problems.
 | [1646-kth-missing-positive-number](https://github.com/logarathansv/LeetCodez/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/logarathansv/LeetCodez/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/logarathansv/LeetCodez/tree/master/1675-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/logarathansv/LeetCodez/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/logarathansv/LeetCodez/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/logarathansv/LeetCodez/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/logarathansv/LeetCodez/tree/master/1813-maximum-erasure-value) |
