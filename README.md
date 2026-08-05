@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems.
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/logarathansv/LeetCodez/tree/master/0830-largest-triangle-area) |
+| [0846-hand-of-straights](https://github.com/logarathansv/LeetCodez/tree/master/0846-hand-of-straights) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/logarathansv/LeetCodez/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/logarathansv/LeetCodez/tree/master/0890-lemonade-change) |
@@ -467,6 +468,7 @@ This repository contains my solutions to LeetCode problems.
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/logarathansv/LeetCodez/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0904-fruit-into-baskets) |
@@ -728,6 +730,7 @@ This repository contains my solutions to LeetCode problems.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/logarathansv/LeetCodez/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/logarathansv/LeetCodez/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/logarathansv/LeetCodez/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/logarathansv/LeetCodez/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/logarathansv/LeetCodez/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/logarathansv/LeetCodez/tree/master/1448-maximum-69-number) |
@@ -924,6 +927,7 @@ This repository contains my solutions to LeetCode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/logarathansv/LeetCodez/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/logarathansv/LeetCodez/tree/master/0846-hand-of-straights) |
 | [0883-car-fleet](https://github.com/logarathansv/LeetCodez/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/logarathansv/LeetCodez/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
