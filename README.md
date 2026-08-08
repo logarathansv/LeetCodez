@@ -255,6 +255,7 @@ This repository contains my solutions to LeetCode problems.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/logarathansv/LeetCodez/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/logarathansv/LeetCodez/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/logarathansv/LeetCodez/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/logarathansv/LeetCodez/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/logarathansv/LeetCodez/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
@@ -350,6 +351,7 @@ This repository contains my solutions to LeetCode problems.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/logarathansv/LeetCodez/tree/master/3194-find-words-containing-character) |
 | [3210-count-beautiful-substrings-i](https://github.com/logarathansv/LeetCodez/tree/master/3210-count-beautiful-substrings-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/logarathansv/LeetCodez/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/logarathansv/LeetCodez/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/logarathansv/LeetCodez/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -429,6 +431,7 @@ This repository contains my solutions to LeetCode problems.
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/logarathansv/LeetCodez/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/logarathansv/LeetCodez/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/logarathansv/LeetCodez/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/logarathansv/LeetCodez/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -756,6 +759,7 @@ This repository contains my solutions to LeetCode problems.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/logarathansv/LeetCodez/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/logarathansv/LeetCodez/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/logarathansv/LeetCodez/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/logarathansv/LeetCodez/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/logarathansv/LeetCodez/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/logarathansv/LeetCodez/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/logarathansv/LeetCodez/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
