@@ -1,37 +1,36 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, int> mp;
         vector<vector<int>> adj(numCourses);
+        vector<int> indeg(numCourses, 0);
 
-        for(auto pre: prerequisites){
-            adj[pre[0]].push_back(pre[1]);
-        }
-
-        for(int i=0;i<numCourses;i++) mp[i] = 0;
-        for(int i=0;i<prerequisites.size();i++){
-                mp[prerequisites[i][1]]++;
+        for(auto i:prerequisites){
+            adj[i[1]].push_back(i[0]);
+            indeg[i[0]]++;
         }
 
         queue<int> q;
-        int ct = 0;
 
-        for(auto ele: mp){
-            if(ele.second == 0) {q.push(ele.first);}
+        for(int i=0;i<numCourses;i++){
+            if(indeg[i] == 0){ q.push(i);cout<<i;}
         }
 
+        int ct = 0;
         while(!q.empty()){
-            int ele = q.front();
-            q.pop();  
+            int node = q.front();q.pop();
             ct++;
-
-            for(auto neigh : adj[ele]){
-                mp[neigh]--;
-                if(mp[neigh] == 0) q.push(neigh);
+            for(auto neigh : adj[node]){
+                indeg[neigh]--;
+                if(indeg[neigh] == 0){
+                    q.push(neigh);
+                }
             }
         }
 
-        if(ct != numCourses) return false;
-        return true;
+        // for(int i=0;i<V;i++){
+        //     for(auto neigh:adj[i]) indeg[neigh]++
+        // }
+
+        return ct == numCourses;
     }
 };
