@@ -916,6 +916,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/logarathansv/LeetCodez/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/logarathansv/LeetCodez/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/logarathansv/LeetCodez/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -994,6 +995,7 @@ This repository contains my solutions to LeetCode problems.
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
@@ -1153,6 +1155,7 @@ This repository contains my solutions to LeetCode problems.
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/logarathansv/LeetCodez/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
@@ -1438,8 +1441,17 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
