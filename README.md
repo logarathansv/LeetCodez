@@ -993,6 +993,7 @@ This repository contains my solutions to LeetCode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
@@ -1045,6 +1046,7 @@ This repository contains my solutions to LeetCode problems.
 | [0451-sort-characters-by-frequency](https://github.com/logarathansv/LeetCodez/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/logarathansv/LeetCodez/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/logarathansv/LeetCodez/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
@@ -1155,6 +1157,7 @@ This repository contains my solutions to LeetCode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/logarathansv/LeetCodez/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
@@ -1199,6 +1202,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/logarathansv/LeetCodez/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1446,6 +1450,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/logarathansv/LeetCodez/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
@@ -1460,4 +1465,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
