@@ -482,6 +482,7 @@ This repository contains my solutions to LeetCode problems.
 | [0904-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/logarathansv/LeetCodez/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/logarathansv/LeetCodez/tree/master/0940-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/logarathansv/LeetCodez/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/logarathansv/LeetCodez/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1171,6 +1172,7 @@ This repository contains my solutions to LeetCode problems.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/logarathansv/LeetCodez/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/logarathansv/LeetCodez/tree/master/0904-leaf-similar-trees) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -1457,6 +1459,7 @@ This repository contains my solutions to LeetCode problems.
 | [0743-network-delay-time](https://github.com/logarathansv/LeetCodez/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/logarathansv/LeetCodez/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Directed Acyclic Graph
@@ -1487,5 +1490,10 @@ This repository contains my solutions to LeetCode problems.
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
