@@ -1490,6 +1490,7 @@ This repository contains my solutions to LeetCode problems.
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bipartite Graph
