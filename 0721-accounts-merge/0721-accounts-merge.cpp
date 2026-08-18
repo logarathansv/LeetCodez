@@ -40,7 +40,7 @@ public:
             for(int j=1;j<accounts[i].size();j++){
                 if(mp.find(accounts[i][j]) != mp.end()){
                     ds.unionbysize(i, mp[accounts[i][j]]);
-                    accounts[i][j] = "";
+                    // accounts[i][j] = "";
                 }
                 else mp[accounts[i][j]] = i;
             }
@@ -53,15 +53,20 @@ public:
             ans[i].push_back(name);
         }
 
-        for(int i=0;i<accounts.size();i++){
-            for(int j=1;j<accounts[i].size();j++){
-                if(accounts[i][j] == "") continue;
-                int ultp = ds.findp(mp[accounts[i][j]]);
-                if(ultp == mp[accounts[i][j]]){
-                    ans[i].push_back(accounts[i][j]);
-                }
-                else ans[ultp].push_back(accounts[i][j]);
-            }
+        // for(int i=0;i<accounts.size();i++){
+        //     for(int j=1;j<accounts[i].size();j++){
+        //         // if(accounts[i][j] == "") continue;
+        //         int ultp = ds.findp(mp[accounts[i][j]]);
+        //         if(ultp == mp[accounts[i][j]]){
+        //             ans[i].push_back(accounts[i][j]);
+        //         }
+        //         else ans[ultp].push_back(accounts[i][j]);
+        //     }
+        // }
+
+        for(auto i:mp){
+            int ultp = ds.findp(i.second);
+            ans[ultp].push_back(i.first);
         }
 
         vector<vector<string>> res;
