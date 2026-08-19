@@ -1180,6 +1180,7 @@ This repository contains my solutions to LeetCode problems.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/logarathansv/LeetCodez/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/logarathansv/LeetCodez/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/logarathansv/LeetCodez/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1464,6 +1465,7 @@ This repository contains my solutions to LeetCode problems.
 | [0787-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/logarathansv/LeetCodez/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/logarathansv/LeetCodez/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Directed Acyclic Graph
@@ -1502,4 +1504,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/logarathansv/LeetCodez/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/logarathansv/LeetCodez/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
