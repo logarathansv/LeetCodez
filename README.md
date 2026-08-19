@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems.
 | [0747-min-cost-climbing-stairs](https://github.com/logarathansv/LeetCodez/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/logarathansv/LeetCodez/tree/master/0797-rabbits-in-forest) |
+| [0827-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/logarathansv/LeetCodez/tree/master/0830-largest-triangle-area) |
 | [0846-hand-of-straights](https://github.com/logarathansv/LeetCodez/tree/master/0846-hand-of-straights) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
@@ -657,6 +658,7 @@ This repository contains my solutions to LeetCode problems.
 | [0542-01-matrix](https://github.com/logarathansv/LeetCodez/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/logarathansv/LeetCodez/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/logarathansv/LeetCodez/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/logarathansv/LeetCodez/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/logarathansv/LeetCodez/tree/master/0967-minimum-falling-path-sum) |
@@ -1003,6 +1005,7 @@ This repository contains my solutions to LeetCode problems.
 | [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/logarathansv/LeetCodez/tree/master/0871-keys-and-rooms) |
@@ -1168,6 +1171,7 @@ This repository contains my solutions to LeetCode problems.
 | [0802-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/logarathansv/LeetCodez/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/logarathansv/LeetCodez/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/logarathansv/LeetCodez/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/logarathansv/LeetCodez/tree/master/0871-keys-and-rooms) |
@@ -1491,6 +1495,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/logarathansv/LeetCodez/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/logarathansv/LeetCodez/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/logarathansv/LeetCodez/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/logarathansv/LeetCodez/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bipartite Graph
