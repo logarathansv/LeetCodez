@@ -1401,6 +1401,7 @@ This repository contains my solutions to LeetCode problems.
 | [1292-immediate-food-delivery-ii](https://github.com/logarathansv/LeetCodez/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/logarathansv/LeetCodez/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/logarathansv/LeetCodez/tree/master/1338-queries-quality-and-percentage) |
+| [1341-movie-rating](https://github.com/logarathansv/LeetCodez/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/logarathansv/LeetCodez/tree/master/1390-average-selling-price) |
 | [1729-find-followers-count](https://github.com/logarathansv/LeetCodez/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/logarathansv/LeetCodez/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
