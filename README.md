@@ -1388,6 +1388,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0176-second-highest-salary](https://github.com/logarathansv/LeetCodez/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/logarathansv/LeetCodez/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/logarathansv/LeetCodez/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/logarathansv/LeetCodez/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/logarathansv/LeetCodez/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/logarathansv/LeetCodez/tree/master/0596-classes-with-at-least-5-students) |
