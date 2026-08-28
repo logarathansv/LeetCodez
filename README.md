@@ -1386,6 +1386,7 @@ This repository contains my solutions to LeetCode problems.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/logarathansv/LeetCodez/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/logarathansv/LeetCodez/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/logarathansv/LeetCodez/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/logarathansv/LeetCodez/tree/master/0585-investments-in-2016) |
