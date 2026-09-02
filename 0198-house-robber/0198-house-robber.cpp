@@ -1,14 +1,18 @@
 class Solution {
 public:
+    int robb(int ind, vector<int>& nums, vector<int>& dp){
+        if(ind < 0) return 0;
+        if(ind == 0) return nums[ind];
+
+        if(dp[ind] != -1) return dp[ind];
+
+        int take = nums[ind] + robb(ind-2, nums, dp);
+        int ntake = robb(ind-1, nums, dp);
+
+        return dp[ind] = max(take, ntake);
+    }
     int rob(vector<int>& nums) {
-        if (nums.size() == 0) return 0;
-        int prev1 = 0;
-        int prev2 = 0;
-        for (int num : nums) {
-            int tmp = prev1;
-            prev1 = max(prev2 + num, prev1);
-            prev2 = tmp;
-        }
-        return prev1;
+        vector<int> dp(nums.size(), -1);
+        return robb(nums.size()- 1, nums, dp);
     }
 };
